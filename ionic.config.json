@@ -1,5 +1,7 @@
 {
   "name": "esmgram-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
