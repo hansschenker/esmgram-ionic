@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "esmgram": {
+      "hosting": {
+        "app": [
+          "esmgram"
+        ]
+      }
+    }
+  }
+}
